@@ -1,3 +1,5 @@
+I pushed up this part because I like the readme and it's nice with the server stuff all added in it. Thanks Facebook.
+
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 # React Tutorial
